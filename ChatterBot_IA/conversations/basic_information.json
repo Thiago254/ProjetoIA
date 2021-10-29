@@ -1,0 +1,31 @@
+
+{
+  "conversations": [
+    {
+      "messages": [
+        "preciso comprar acai",
+        "quero acai",
+        "acai urgente"
+      ],
+      "response": "Para comprar acai, digite seu endereço."
+    },
+    {
+      "messages":[
+        "rua",
+        "avenida",
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "response": "Desculpe, não entregamos nesse endereço."
+    }
+    
+  ]
+}
